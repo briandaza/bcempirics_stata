@@ -23,9 +23,11 @@ V. Graphics
                                I. Introduction
 ----------------------------------------------------------------------------- */
 
+* Commenting
+
 /* 
 El presente código tiene como objetivo responder la sección de ejercicios del 
-primer capítulo del libro Open Economy Macroeconomics de Uribe y Schmitt-Grohé.
+primer capítulo de Open Economy Macroeconomics de Uribe y Schmitt-Grohé.
 
 Si bien las instrucciones de Uribe y Schmitt-Grohé solicitan el análisis de los
 ciclos económicos para Corea del Sur y los Estados Unidos, en este código se
